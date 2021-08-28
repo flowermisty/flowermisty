@@ -27,7 +27,7 @@
 <h3 align="left">DataBase</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-#1266FF?style=for-the-badge&logo=MySQL&logoColor=EDA900"/></a> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-1266FF?style=for-the-badge&logo=MySQL&logoColor=EDA900"/></a> &nbsp 
 </p>
 
 <h3 align="left">ML/DL</b></h3>
