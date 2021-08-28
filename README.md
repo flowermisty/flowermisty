@@ -10,9 +10,10 @@ I want to be a person who gives you new wisdom. ✨
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Laguage-white"/>&nbsp
-  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <br>
   <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
