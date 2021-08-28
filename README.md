@@ -12,7 +12,7 @@
 <br/><br/><h2 align="left">🛠 Tech Stack 🛠</b></h2>
 <h3 align="left">Language</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=JAVA&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JAVA-#FF0000?style=for-the-badge&logo=JAVA&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp
 </p>
