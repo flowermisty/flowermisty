@@ -32,7 +32,7 @@
 
 <h3 align="left">ML/DL</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/scikit-learn-47A248?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/scikitlearn-47A248?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/TensorFlow-4479A1?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
 </p>
 
