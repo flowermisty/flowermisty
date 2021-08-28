@@ -3,7 +3,7 @@
 #### 🌱 개발자 이용석의, STORY & 발자취 & TIL 공간입니다.
 #### 🌱 穿鑿하는 자세의 개발자가 되기 위해 오늘도 노력중입니다.🔥🔥🔥 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowermisty&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowermisty&show_icons=true&theme=dark)
 
 
 <h3 align="left">🛠 Tech Stack 🛠</b></h3>
