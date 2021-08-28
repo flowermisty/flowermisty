@@ -45,6 +45,17 @@
 | 1년 10개월 | 케이원정보통신 | 사원 | ERP 및 Legacy 서버 DB백업, 서비스 프로세스 모니터링
 | 4년 1개월 | 제8보병사탄 포병연대 | 체계담당관 | ATCIS(육군전술지휘정보체계)서버운영 , 네트워크/PC유지보수, 부대 홈페이지 운영
 
+## 💬교육이수💬
+
+
+|기간|과정명|기관|
+| ------ | ------ | ------ |
+| 2021-05-31 ~ 2021-08-13 | K-digital Traning 인공지능 통합과정 | (주)멋쟁이 사자처럼 |
+| 2020-11-05 ~ 2021-04-02 | JAVA웹프로그래밍 | 이젠IT 아카데미 |
+| 2012-05-07 ~ 2012-06-25 | 기업서버운영 | (주)솔데스크 |
+
+
+
 <h3 align="left">📫 Join 📫 </h3>&nbsp
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon0529@gmail.com)](mailto:geon0529@gmail.com)
