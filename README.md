@@ -55,9 +55,7 @@
 | 2012-05-07 ~ 2012-06-25 | 기업서버운영 | (주)솔데스크 |
 
 
-
-<h3 align="left">📫 Join 📫 </h3>&nbsp
-
+##📫 Join 📫 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon0529@gmail.com)](mailto:geon0529@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cottonwood-moa.tistory.com/)](https://cottonwood-moa.tistory.com/)
 
