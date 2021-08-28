@@ -13,27 +13,27 @@
 <h3 align="left">Language</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=JAVA&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="left">WEB</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Spring-1572B6?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/HTML5-F7DF1E?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-339933?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Spring-1572B6?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-339933?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="left">DataBase</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/ORACLE-47A248?style=flat-square&logo=ORACLE&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/ORACLE-47A248?style=for-the-badge&logo=ORACLE&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
 </p>
 
 <h3 align="left">ML/DL</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/scikit learn-47A248?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/TensorFlow-4479A1?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/scikit learn-47A248?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/TensorFlow-4479A1?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> &nbsp 
 </p>
 
 
