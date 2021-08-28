@@ -9,7 +9,7 @@
 <h2 align="left">🛠 Tech Stack 🛠</b></h2>
 <h3 align="left">Language</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 </p>
@@ -18,8 +18,8 @@
 <p align="left">
 <img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=JSP&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-1572B6?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=HTML&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS-339933?style=flat-square&logo=CSS&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-F7DF1E?style=flat-square&logo=HTML&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-339933?style=flat-square&logo=CSS&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="left">DataBase</b></h3>
