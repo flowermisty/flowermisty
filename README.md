@@ -4,7 +4,9 @@
 #### 🌱 穿鑿하는 자세의 개발자가 되기 위해 오늘도 노력중입니다.🔥🔥🔥 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowermisty&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowermisty)](https://github.com/flowermisty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowermisty&langs_count=10&layout=compact&theme=dark)](https://github.com/flowermisty/flowermisty)
+
+
 
 
 <br/><br/><h2 align="left">🛠 Tech Stack 🛠</b></h2>
