@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=810000&text=YongSuk-Lee:%20&height=300&fontSize=50&animation=twinkling&fontColor=black&fontAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=810000&text=YongSuk-Lee:%20&height=300&fontSize=50&animation=twinkling&fontColor=D5D5D5&fontAlign=20)
 # 안녕하세요! / Hi, there  👋
 #### 🌱 개발자 이용석의, STORY & 발자취 & TIL 공간입니다.
 #### 🌱 穿鑿하는 자세의 개발자가 되기 위해 오늘도 노력중입니다.🔥🔥🔥 
