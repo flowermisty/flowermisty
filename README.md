@@ -10,27 +10,27 @@
 
 
 <br/><br/><h2 align="left">🛠 Tech Stack 🛠</b></h2>
-<h3 align="left">Language</b></h3>
+<h3 align="left">💻Language💻</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/JAVA-FF0000?style=for-the-badge&logo=JAVA&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=EDA900"/></a> &nbsp
 </p>
 
-<h3 align="left">WEB</b></h3>
+<h3 align="left">🌍WEB🌍</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Spring-75BC00?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-FF5E00?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-0054FF?style=for-the-badge&logo=CSS3&logoColor=black"/></a> &nbsp
 </p>
 
-<h3 align="left">DataBase</b></h3>
+<h3 align="left">📰DataBase📰</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-1266FF?style=for-the-badge&logo=MySQL&logoColor=EDA900"/></a> &nbsp 
 </p>
 
-<h3 align="left">ML/DL</b></h3>
+<h3 align="left">🤖ML/DL🕸</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/scikit learn-47A248?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/TensorFlow-4479A1?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> &nbsp 
