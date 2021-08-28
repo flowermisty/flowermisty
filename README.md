@@ -14,20 +14,20 @@
 <p align="left">
 <img src="https://img.shields.io/badge/JAVA-FF0000?style=for-the-badge&logo=JAVA&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=EDA900"/></a> &nbsp
 </p>
 
 <h3 align="left">WEB</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Spring-1572B6?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-339933?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Spring-75BC00?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-FF5E00?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-0054FF?style=for-the-badge&logo=CSS3&logoColor=black"/></a> &nbsp
 </p>
 
 <h3 align="left">DataBase</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/ORACLE-47A248?style=for-the-badge&logo=ORACLE&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-#1266FF?style=for-the-badge&logo=MySQL&logoColor=EDA900"/></a> &nbsp 
 </p>
 
 <h3 align="left">ML/DL</b></h3>
