@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowermisty&show_icons=true&theme=dark)
 
 
-<br/><br/><br/><h2 align="left">🛠 Tech Stack 🛠</b></h2>
+<br/><br/><h2 align="left">🛠 Tech Stack 🛠</b></h2>
 <h3 align="left">Language</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA&logoColor=white"/></a> &nbsp
@@ -29,7 +29,7 @@
 </p>
 
 
-## <br/><br/><br/>💬학력💬
+## <br/><br/>💬학력💬
 
 
 |기간|내용|
@@ -61,7 +61,7 @@
 | 2012-05-07 ~ 2012-06-25 | 기업서버운영 | (주)솔데스크 |
 
 
-## <br/><br/><br/>📫 Join 📫 
+## <br/><br/>📫 Join 📫 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flowermisty0625@gmail.com)](mailto:flowermisty0625@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://flowermisty.tistory.com/)](https://flowermisty.tistory.com/)
 
