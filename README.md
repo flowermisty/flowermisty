@@ -7,7 +7,7 @@
 
 
 <h2 align="left">🛠 Tech Stack 🛠</b></h2>
-<h3 align="left">Language</b></h3>
+<h3 align="left">Language</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
