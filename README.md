@@ -6,7 +6,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowermisty&show_icons=true&theme=dark)
 
 
-<h3 align="left">🛠 Tech Stack 🛠</b></h3>
+<h2 align="left">🛠 Tech Stack 🛠</b></h2>
+<h3 align="left">🛠 Language 🛠</b></h3>
+<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+
 </br>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
