@@ -27,13 +27,13 @@
 <h3 align="left">📰DataBase📰</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-1266FF?style=for-the-badge&logo=MySQL&logoColor=EDA900"/></a> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-1266FF?style=for-the-badge&logo=MySQL&logoColor=gold"/></a> &nbsp 
 </p>
 
 <h3 align="left">🤖ML/DL🕸</b></h3>
 <p align="left">
-<img src="https://img.shields.io/badge/scikit learn-47A248?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/TensorFlow-4479A1?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/scikit learn-1266FF?style=for-the-badge&logo=scikit-learn&logoColor=gold"/></a> &nbsp 
+<img src="https://img.shields.io/badge/TensorFlow-cccccc?style=for-the-badge&logo=TensorFlow&logoColor=FF8224"/></a> &nbsp 
 </p>
 
 
