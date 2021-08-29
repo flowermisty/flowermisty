@@ -43,6 +43,8 @@
 <img src="https://img.shields.io/badge/anaconda-1266FF?style=for-the-badge&logo=anaconda&logoColor=gold"/></a> &nbsp 
 <img src="https://img.shields.io/badge/jupyter-cccccc?style=for-the-badge&logo=jupyter&logoColor=FF8224"/></a> &nbsp 
 <img src="https://img.shields.io/badge/eclipse-cccccc?style=for-the-badge&logo=eclipse&logoColor=FF8224"/></a> &nbsp 
+<img src="https://img.shields.io/badge/atom-cccccc?style=for-the-badge&logo=atom&logoColor=FF8224"/></a> &nbsp 
+<img src="https://img.shields.io/badge/editplus-cccccc?style=for-the-badge&logo=editplus&logoColor=FF8224"/></a> &nbsp 
 </p>
 
 ## <br/><br/>💬학력💬
