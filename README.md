@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-cccccc?style=for-the-badge&logo=TensorFlow&logoColor=FF8224"/></a> &nbsp 
 </p>
 
-<h3 align="left"✒etc✒</b></h3>
+<h3 align="left">✒etc✒</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/anaconda-cccccc?style=for-the-badge&logo=anaconda&logoColor=00B700"/></a> &nbsp 
 <img src="https://img.shields.io/badge/jupyter-cccccc?style=for-the-badge&logo=jupyter&logoColor=orange"/></a> &nbsp 
