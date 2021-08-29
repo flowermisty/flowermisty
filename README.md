@@ -20,6 +20,7 @@
 <h3 align="left">🌍WEB🌍</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Spring-75BC00?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Django-75BC00?style=for-the-badge&logo=Django&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-FF5E00?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-0054FF?style=for-the-badge&logo=CSS3&logoColor=black"/></a> &nbsp
 </p>
