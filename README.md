@@ -44,7 +44,6 @@
 <img src="https://img.shields.io/badge/jupyter-cccccc?style=for-the-badge&logo=jupyter&logoColor=orange"/></a> &nbsp 
 <img src="https://img.shields.io/badge/eclipse-3B00DB?style=for-the-badge&logo=eclipse&logoColor=FF8224"/></a> &nbsp 
 <img src="https://img.shields.io/badge/atom-black?style=for-the-badge&logo=atom&logoColor=B7F0B1"/></a> &nbsp 
-
 </p>
 
 ## <br/><br/>💬학력💬
