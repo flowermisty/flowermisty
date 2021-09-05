@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=810000&text=YongSuk-Lee:%20&height=300&fontSize=50&animation=twinkling&fontColor=D5D5D5&fontAlign=20)
+![snake gif](https://github.com/flowermisty/flowermisty/blob/output/github-contribution-grid-snake.svg)
 # 안녕하세요! / Hi, there  👋
 #### 🌱 개발자 이용석의, STORY & 발자취 & TIL 공간입니다.
 #### 🌱 穿鑿하는 자세의 개발자가 되기 위해 오늘도 노력중입니다.🔥🔥🔥 
@@ -83,7 +84,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flowermisty0625@gmail.com)](mailto:flowermisty0625@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://flowermisty.tistory.com/)](https://flowermisty.tistory.com/)
 
-![snake gif](https://github.com/flowermisty/flowermisty/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Cottonwood-moa/Cottonwood-moa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
