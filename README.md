@@ -2,7 +2,7 @@
 # 안녕하세요! / Hi, there  👋
 #### 🌱 개발자 이용석의, STORY & 발자취 & TIL 공간입니다.
 #### 🌱 穿鑿하는 자세의 개발자가 되기 위해 오늘도 노력중입니다.🔥🔥🔥 
-![snake gif](https://github.com/[GitHub flowermisty]/[GitHub flowermisty]/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/flowermisty/flowermisty/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowermisty&show_icons=true&theme=dark)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flowermisty&langs_count=10&layout=compact&theme=dark)](https://github.com/flowermisty/flowermisty)
