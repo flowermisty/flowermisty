@@ -82,6 +82,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flowermisty0625@gmail.com)](mailto:flowermisty0625@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://flowermisty.tistory.com/)](https://flowermisty.tistory.com/)
 
+![snake gif](https://github.com/[GitHub 아이디]/[GitHub 아이디]/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Cottonwood-moa/Cottonwood-moa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
